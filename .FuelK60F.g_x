@@ -1,0 +1,85 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Static_Code/PDD/CMT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583528" FileType="45637" CompNumb="10" />
+      <File Name="Static_Code/PDD/CAN_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2014-07-22, 19:13:03" FileAge="1406081583523" FileType="45637" CompNumb="10" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/USBDCD_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/NFC_PDD.h" FileDate="2013-07-12, 16:59:42" FileAge="1373673582000" FileType="262144" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-07-22, 19:13:03" FileAge="1406081583627" FileType="45637" CompNumb="2" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2014-07-22, 19:01:26" FileAge="1406080886572" FileType="8" CompNumb="2" />
+      <File Name="Project_Settings/Debugger/MK61FN1M0.mem" FileDate="2014-07-22, 19:01:26" FileAge="1406080886663" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2014-07-22, 19:01:26" FileAge="1406080886669" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/CI2C1.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583520" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/IO_Map/MK61F12.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/CsIO1.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583535" FileType="45637" CompNumb="8" />
+      <File Name="Static_Code/PDD/VREF_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/FMC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/CI2C1.c" FileDate="2014-07-22, 19:46:58" FileAge="1406083618804" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/WDOG_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2013-04-18, 00:55:42" FileAge="1366271742000" FileType="262144" />
+      <File Name="Generated_Code/CsIO1.c" FileDate="2014-07-22, 19:46:58" FileAge="1406083618792" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583635" FileType="131328" />
+      <File Name="Documentation/doxygen/FuelK60F.txt" FileDate="2014-07-22, 19:13:03" FileAge="1406081583603" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/USBHS_PDD.h" FileDate="2013-07-12, 17:02:42" FileAge="1373673762000" FileType="262144" />
+      <File Name="Sources/Events.c" FileDate="2014-07-22, 19:15:21" FileAge="1406081721018" FileType="131328" />
+      <File Name="Static_Code/PDD/CRC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Documentation/FuelK60F_Settings.xml" FileDate="2014-07-22, 19:46:58" FileAge="1406083618884" FileType="3072" />
+      <File Name="Documentation/FuelK60F.txt" FileDate="2014-07-22, 19:13:03" FileAge="1406081583700" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-07-22, 19:01:26" FileAge="1406080886697" FileType="45637" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2014-07-22, 19:01:26" FileAge="1406080886676" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/IO1.h" FileDate="2014-07-22, 19:46:58" FileAge="1406083618756" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2014-05-14, 12:09:28" FileAge="1400094568000" FileType="262144" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/IO1.c" FileDate="2014-07-22, 19:46:58" FileAge="1406083618766" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Documentation/doxygen/IO1.txt" FileDate="2014-07-22, 19:46:58" FileAge="1406083618779" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/EWM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-07-22, 19:39:43" FileAge="1406083183831" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2014-07-22, 19:01:26" FileAge="1406080886353" FileType="16384" CompNumb="2" />
+      <File Name="Documentation/FuelK60F_SIGNALS.txt" FileDate="2014-07-22, 19:46:58" FileAge="1406083618853" FileType="3072" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-07-22, 19:46:58" FileAge="1406083618814" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-07-22, 19:01:26" FileAge="1406080886701" FileType="45637" />
+      <File Name="Static_Code/PDD/PDB_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583563" FileType="45637" />
+      <File Name="Static_Code/PDD/FTM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/RNGA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-07-22, 19:01:26" FileAge="1406080886704" FileType="45637" />
+      <File Name="Static_Code/PDD/FTFE_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2014-07-22, 19:13:03" FileAge="1406081583618" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/SDHC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/SAI_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Sources/main.c" FileDate="2014-07-22, 19:14:44" FileAge="1406081684650" FileType="128" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2014-07-22, 19:46:58" FileAge="1406083618822" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Documentation/doxygen/CI2C1.txt" FileDate="2014-07-22, 19:13:03" FileAge="1406081583507" FileType="45637" CompNumb="11" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+      <File Name="Static_Code/PDD/ENET_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392927526000" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>4</CodeGenReference>
+</CodeGenerationInfo>

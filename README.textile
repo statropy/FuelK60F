@@ -1,0 +1,20 @@
+h1. LiPo Fuel Gauge Reader
+
+Version 1.0
+
+h2. Summary
+
+This program runs on the Freescale TWR-K60F120 board using the Tower System, the TWR-SER serial IO board, and the "LiPo Fuel Gauge":http://www.sparkfun.com/products/10617 breakout board from "Sparkfun":http://sparkfun.com. Created using the Processor Expert tool and the CodeWarrior IDE 10.6.
+
+h3. Hardware
+
+Make the following connections between the TWR-K60F120 and the LiPo Fuel Gauge breakout board:
+
+pre. TWR-K60F120    LiPo Fuel Gauge
+---------------------------
+       3.3V -> VCC
+        GND -> GND
+   J5 Pin 3 -> SCL
+   J5 Pin 4 -> SDA
+   
+Connect the serial port on the TWR-SER to your computer (8N1 38400). The remaining battery percentage will be printed every 3 seconds.
